@@ -160,7 +160,7 @@ Example: Invalid warehouse ID
 
 Refer to:
 
-TESTING_GUIDE.md
+Testing_Guide.md
 
 for complete testing instructions.
 
